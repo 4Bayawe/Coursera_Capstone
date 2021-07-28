@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone Project Notebook
+Shall be used as a Capstone Project Notebook 
